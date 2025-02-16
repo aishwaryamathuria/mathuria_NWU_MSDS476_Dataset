@@ -1,0 +1,1518 @@
+
+events for caseid 1
+   caseid  time       activity
+0       1   520        arrival
+1       1   520     join_queue
+2       1   520  begin_service
+3       1   580    end_service
+
+time between arrivals (this case minus previous case): 520 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 2
+   caseid  time       activity
+4       2   594        arrival
+5       2   594     join_queue
+6       2   594  begin_service
+7       2   654    end_service
+
+time between arrivals (this case minus previous case): 74 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 3
+    caseid  time       activity
+8        3   831        arrival
+9        3   831     join_queue
+10       3   831  begin_service
+11       3   891    end_service
+
+time between arrivals (this case minus previous case): 237 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 4
+    caseid  time       activity
+12       4   893        arrival
+13       4   893     join_queue
+14       4   893  begin_service
+15       4   954    end_service
+
+time between arrivals (this case minus previous case): 62 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 61 seconds
+
+events for caseid 5
+    caseid  time       activity
+16       5  1172        arrival
+17       5  1172     join_queue
+18       5  1172  begin_service
+19       5  1352    end_service
+
+time between arrivals (this case minus previous case): 279 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 180 seconds
+
+events for caseid 6
+    caseid  time       activity
+20       6  1482        arrival
+21       6  1482     join_queue
+22       6  1482  begin_service
+23       6  1542    end_service
+
+time between arrivals (this case minus previous case): 310 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 7
+    caseid  time       activity
+24       7  1924        arrival
+25       7  1924     join_queue
+26       7  1924  begin_service
+27       7  1984    end_service
+
+time between arrivals (this case minus previous case): 442 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 8
+    caseid  time       activity
+28       8  2085        arrival
+29       8  2085     join_queue
+30       8  2085  begin_service
+31       8  2145    end_service
+
+time between arrivals (this case minus previous case): 161 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 9
+    caseid  time       activity
+32       9  2222        arrival
+33       9  2222     join_queue
+34       9  2222  begin_service
+35       9  2282    end_service
+
+time between arrivals (this case minus previous case): 137 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 10
+    caseid  time       activity
+36      10  2483        arrival
+37      10  2483     join_queue
+38      10  2483  begin_service
+41      10  2655    end_service
+
+time between arrivals (this case minus previous case): 261 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 172 seconds
+
+events for caseid 11
+    caseid  time       activity
+39      11  2601        arrival
+40      11  2601     join_queue
+44      11  2655  begin_service
+45      11  2727    end_service
+
+time between arrivals (this case minus previous case): 118 seconds
+waiting time for this case (time between joining queue and beginning service): 54 seconds
+service time for this case (time between beginning and ending service): 72 seconds
+
+events for caseid 12
+    caseid  time       activity
+42      12  2655        arrival
+43      12  2655     join_queue
+46      12  2727  begin_service
+47      12  2810    end_service
+
+time between arrivals (this case minus previous case): 54 seconds
+waiting time for this case (time between joining queue and beginning service): 72 seconds
+service time for this case (time between beginning and ending service): 83 seconds
+
+events for caseid 13
+    caseid  time       activity
+48      13  2853        arrival
+49      13  2853     join_queue
+50      13  2853  begin_service
+51      13  2913    end_service
+
+time between arrivals (this case minus previous case): 198 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 14
+    caseid  time       activity
+52      14  3025        arrival
+53      14  3025     join_queue
+54      14  3025  begin_service
+55      14  3094    end_service
+
+time between arrivals (this case minus previous case): 172 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 69 seconds
+
+events for caseid 15
+    caseid  time       activity
+56      15  3628        arrival
+57      15  3628     join_queue
+58      15  3628  begin_service
+59      15  3688    end_service
+
+time between arrivals (this case minus previous case): 603 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 16
+    caseid  time       activity
+60      16  3827        arrival
+61      16  3827     join_queue
+62      16  3827  begin_service
+63      16  3929    end_service
+
+time between arrivals (this case minus previous case): 199 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 102 seconds
+
+events for caseid 17
+    caseid  time       activity
+64      17  4089        arrival
+65      17  4089     join_queue
+66      17  4089  begin_service
+67      17  4269    end_service
+
+time between arrivals (this case minus previous case): 262 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 180 seconds
+
+events for caseid 18
+    caseid  time       activity
+68      18  4325        arrival
+69      18  4325     join_queue
+70      18  4325  begin_service
+71      18  4437    end_service
+
+time between arrivals (this case minus previous case): 236 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 112 seconds
+
+events for caseid 19
+    caseid  time       activity
+72      19  4782        arrival
+73      19  4782     join_queue
+74      19  4782  begin_service
+83      19  4962    end_service
+
+time between arrivals (this case minus previous case): 457 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 180 seconds
+
+events for caseid 20
+    caseid  time       activity
+75      20  4811        arrival
+76      20  4811     join_queue
+84      20  4962  begin_service
+85      20  5022    end_service
+
+time between arrivals (this case minus previous case): 29 seconds
+waiting time for this case (time between joining queue and beginning service): 151 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 21
+    caseid  time       activity
+77      21  4887        arrival
+78      21  4887     join_queue
+86      21  5022  begin_service
+87      21  5113    end_service
+
+time between arrivals (this case minus previous case): 76 seconds
+waiting time for this case (time between joining queue and beginning service): 135 seconds
+service time for this case (time between beginning and ending service): 91 seconds
+
+events for caseid 22
+    caseid  time       activity
+79      22  4908        arrival
+80      22  4908     join_queue
+88      22  5113  begin_service
+91      22  5208    end_service
+
+time between arrivals (this case minus previous case): 21 seconds
+waiting time for this case (time between joining queue and beginning service): 205 seconds
+service time for this case (time between beginning and ending service): 95 seconds
+
+events for caseid 23
+    caseid  time       activity
+81      23  4928        arrival
+82      23  4928     join_queue
+92      23  5208  begin_service
+93      23  5268    end_service
+
+time between arrivals (this case minus previous case): 20 seconds
+waiting time for this case (time between joining queue and beginning service): 280 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 24
+    caseid  time       activity
+89      24  5127        arrival
+90      24  5127     join_queue
+94      24  5268  begin_service
+95      24  5328    end_service
+
+time between arrivals (this case minus previous case): 199 seconds
+waiting time for this case (time between joining queue and beginning service): 141 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 25
+    caseid  time       activity
+96      25  5565        arrival
+97      25  5565     join_queue
+98      25  5565  begin_service
+99      25  5625    end_service
+
+time between arrivals (this case minus previous case): 438 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 26
+     caseid  time       activity
+100      26  6270        arrival
+101      26  6270     join_queue
+102      26  6270  begin_service
+103      26  6331    end_service
+
+time between arrivals (this case minus previous case): 705 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 61 seconds
+
+events for caseid 27
+     caseid  time       activity
+104      27  6531        arrival
+105      27  6531     join_queue
+106      27  6531  begin_service
+107      27  6594    end_service
+
+time between arrivals (this case minus previous case): 261 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 63 seconds
+
+events for caseid 28
+     caseid  time       activity
+108      28  7053        arrival
+109      28  7053     join_queue
+110      28  7053  begin_service
+111      28  7113    end_service
+
+time between arrivals (this case minus previous case): 522 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 29
+     caseid  time       activity
+112      29  7386        arrival
+113      29  7386     join_queue
+114      29  7386  begin_service
+117      29  7524    end_service
+
+time between arrivals (this case minus previous case): 333 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 138 seconds
+
+events for caseid 30
+     caseid  time       activity
+115      30  7401        arrival
+116      30  7401     join_queue
+118      30  7524  begin_service
+119      30  7584    end_service
+
+time between arrivals (this case minus previous case): 15 seconds
+waiting time for this case (time between joining queue and beginning service): 123 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 31
+     caseid  time       activity
+120      31  8535        arrival
+121      31  8535     join_queue
+122      31  8535  begin_service
+127      31  8620    end_service
+
+time between arrivals (this case minus previous case): 1134 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 85 seconds
+
+events for caseid 32
+     caseid  time       activity
+123      32  8543        arrival
+124      32  8543     join_queue
+128      32  8620  begin_service
+129      32  8800    end_service
+
+time between arrivals (this case minus previous case): 8 seconds
+waiting time for this case (time between joining queue and beginning service): 77 seconds
+service time for this case (time between beginning and ending service): 180 seconds
+
+events for caseid 33
+     caseid  time       activity
+125      33  8554        arrival
+126      33  8554     join_queue
+130      33  8800  begin_service
+131      33  8953    end_service
+
+time between arrivals (this case minus previous case): 11 seconds
+waiting time for this case (time between joining queue and beginning service): 246 seconds
+service time for this case (time between beginning and ending service): 153 seconds
+
+events for caseid 34
+     caseid  time       activity
+132      34  9188        arrival
+133      34  9188     join_queue
+134      34  9188  begin_service
+135      34  9248    end_service
+
+time between arrivals (this case minus previous case): 634 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 35
+     caseid  time       activity
+136      35  9434        arrival
+137      35  9434     join_queue
+138      35  9434  begin_service
+139      35  9494    end_service
+
+time between arrivals (this case minus previous case): 246 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 36
+     caseid  time       activity
+140      36  9734        arrival
+141      36  9734     join_queue
+142      36  9734  begin_service
+143      36  9794    end_service
+
+time between arrivals (this case minus previous case): 300 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 37
+     caseid  time       activity
+144      37  9817        arrival
+145      37  9817     join_queue
+146      37  9817  begin_service
+149      37  9890    end_service
+
+time between arrivals (this case minus previous case): 83 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 73 seconds
+
+events for caseid 38
+     caseid  time       activity
+147      38  9829        arrival
+148      38  9829     join_queue
+150      38  9890  begin_service
+151      38  9950    end_service
+
+time between arrivals (this case minus previous case): 12 seconds
+waiting time for this case (time between joining queue and beginning service): 61 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 39
+     caseid   time       activity
+152      39  10067        arrival
+153      39  10067     join_queue
+154      39  10067  begin_service
+155      39  10127    end_service
+
+time between arrivals (this case minus previous case): 238 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 40
+     caseid   time       activity
+156      40  10165        arrival
+157      40  10165     join_queue
+158      40  10165  begin_service
+159      40  10225    end_service
+
+time between arrivals (this case minus previous case): 98 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 41
+     caseid   time       activity
+160      41  10294        arrival
+161      41  10294     join_queue
+162      41  10294  begin_service
+163      41  10376    end_service
+
+time between arrivals (this case minus previous case): 129 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 82 seconds
+
+events for caseid 42
+     caseid   time       activity
+164      42  10485        arrival
+165      42  10485     join_queue
+166      42  10485  begin_service
+167      42  10545    end_service
+
+time between arrivals (this case minus previous case): 191 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 43
+     caseid   time       activity
+168      43  10618        arrival
+169      43  10618     join_queue
+170      43  10618  begin_service
+171      43  10678    end_service
+
+time between arrivals (this case minus previous case): 133 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 44
+     caseid   time       activity
+172      44  10752        arrival
+173      44  10752     join_queue
+174      44  10752  begin_service
+175      44  10812    end_service
+
+time between arrivals (this case minus previous case): 134 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 45
+     caseid   time       activity
+176      45  11478        arrival
+177      45  11478     join_queue
+178      45  11478  begin_service
+179      45  11538    end_service
+
+time between arrivals (this case minus previous case): 726 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 46
+     caseid   time       activity
+180      46  11664        arrival
+181      46  11664     join_queue
+182      46  11664  begin_service
+183      46  11724    end_service
+
+time between arrivals (this case minus previous case): 186 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 47
+     caseid   time       activity
+184      47  11732        arrival
+185      47  11732     join_queue
+186      47  11732  begin_service
+187      47  11797    end_service
+
+time between arrivals (this case minus previous case): 68 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 65 seconds
+
+events for caseid 48
+     caseid   time       activity
+188      48  11915        arrival
+189      48  11915     join_queue
+190      48  11915  begin_service
+191      48  12080    end_service
+
+time between arrivals (this case minus previous case): 183 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 165 seconds
+
+events for caseid 49
+     caseid   time       activity
+192      49  12429        arrival
+193      49  12429     join_queue
+194      49  12429  begin_service
+195      49  12489    end_service
+
+time between arrivals (this case minus previous case): 514 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 50
+     caseid   time       activity
+196      50  12828        arrival
+197      50  12828     join_queue
+198      50  12828  begin_service
+199      50  12888    end_service
+
+time between arrivals (this case minus previous case): 399 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 51
+     caseid   time       activity
+200      51  12943        arrival
+201      51  12943     join_queue
+202      51  12943  begin_service
+205      51  13003    end_service
+
+time between arrivals (this case minus previous case): 115 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 52
+     caseid   time       activity
+203      52  12952        arrival
+204      52  12952     join_queue
+206      52  13003  begin_service
+209      52  13063    end_service
+
+time between arrivals (this case minus previous case): 9 seconds
+waiting time for this case (time between joining queue and beginning service): 51 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 53
+     caseid   time       activity
+207      53  13025        arrival
+208      53  13025     join_queue
+210      53  13063  begin_service
+211      53  13125    end_service
+
+time between arrivals (this case minus previous case): 73 seconds
+waiting time for this case (time between joining queue and beginning service): 38 seconds
+service time for this case (time between beginning and ending service): 62 seconds
+
+events for caseid 54
+     caseid   time       activity
+212      54  13486        arrival
+213      54  13486     join_queue
+214      54  13486  begin_service
+219      54  13546    end_service
+
+time between arrivals (this case minus previous case): 461 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 55
+     caseid   time       activity
+215      55  13488        arrival
+216      55  13488     join_queue
+220      55  13546  begin_service
+221      55  13655    end_service
+
+time between arrivals (this case minus previous case): 2 seconds
+waiting time for this case (time between joining queue and beginning service): 58 seconds
+service time for this case (time between beginning and ending service): 109 seconds
+
+events for caseid 56
+     caseid   time       activity
+217      56  13515        arrival
+218      56  13515     join_queue
+222      56  13655  begin_service
+223      56  13715    end_service
+
+time between arrivals (this case minus previous case): 27 seconds
+waiting time for this case (time between joining queue and beginning service): 140 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 57
+     caseid   time       activity
+224      57  13750        arrival
+225      57  13750     join_queue
+226      57  13750  begin_service
+227      57  13810    end_service
+
+time between arrivals (this case minus previous case): 235 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 58
+     caseid   time       activity
+228      58  13973        arrival
+229      58  13973     join_queue
+230      58  13973  begin_service
+231      58  14153    end_service
+
+time between arrivals (this case minus previous case): 223 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 180 seconds
+
+events for caseid 59
+     caseid   time       activity
+232      59  14711        arrival
+233      59  14711     join_queue
+234      59  14711  begin_service
+235      59  14796    end_service
+
+time between arrivals (this case minus previous case): 738 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 85 seconds
+
+events for caseid 60
+     caseid   time       activity
+236      60  14981        arrival
+237      60  14981     join_queue
+238      60  14981  begin_service
+239      60  15072    end_service
+
+time between arrivals (this case minus previous case): 270 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 91 seconds
+
+events for caseid 61
+     caseid   time       activity
+240      61  15115        arrival
+241      61  15115     join_queue
+242      61  15115  begin_service
+247      61  15175    end_service
+
+time between arrivals (this case minus previous case): 134 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 62
+     caseid   time       activity
+243      62  15123        arrival
+244      62  15123     join_queue
+248      62  15175  begin_service
+249      62  15286    end_service
+
+time between arrivals (this case minus previous case): 8 seconds
+waiting time for this case (time between joining queue and beginning service): 52 seconds
+service time for this case (time between beginning and ending service): 111 seconds
+
+events for caseid 63
+     caseid   time       activity
+245      63  15166        arrival
+246      63  15166     join_queue
+250      63  15286  begin_service
+251      63  15423    end_service
+
+time between arrivals (this case minus previous case): 43 seconds
+waiting time for this case (time between joining queue and beginning service): 120 seconds
+service time for this case (time between beginning and ending service): 137 seconds
+
+events for caseid 64
+     caseid   time       activity
+252      64  15798        arrival
+253      64  15798     join_queue
+254      64  15798  begin_service
+259      64  15858    end_service
+
+time between arrivals (this case minus previous case): 632 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 65
+     caseid   time       activity
+255      65  15799        arrival
+256      65  15799     join_queue
+260      65  15858  begin_service
+263      65  15918    end_service
+
+time between arrivals (this case minus previous case): 1 seconds
+waiting time for this case (time between joining queue and beginning service): 59 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 66
+     caseid   time       activity
+257      66  15807        arrival
+258      66  15807     join_queue
+264      66  15918  begin_service
+265      66  15978    end_service
+
+time between arrivals (this case minus previous case): 8 seconds
+waiting time for this case (time between joining queue and beginning service): 111 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 67
+     caseid   time       activity
+261      67  15890        arrival
+262      67  15890     join_queue
+266      67  15978  begin_service
+267      67  16067    end_service
+
+time between arrivals (this case minus previous case): 83 seconds
+waiting time for this case (time between joining queue and beginning service): 88 seconds
+service time for this case (time between beginning and ending service): 89 seconds
+
+events for caseid 68
+     caseid   time       activity
+268      68  16190        arrival
+269      68  16190     join_queue
+270      68  16190  begin_service
+271      68  16258    end_service
+
+time between arrivals (this case minus previous case): 300 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 68 seconds
+
+events for caseid 69
+     caseid   time       activity
+272      69  16401        arrival
+273      69  16401     join_queue
+274      69  16401  begin_service
+275      69  16474    end_service
+
+time between arrivals (this case minus previous case): 211 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 73 seconds
+
+events for caseid 70
+     caseid   time       activity
+276      70  16591        arrival
+277      70  16591     join_queue
+278      70  16591  begin_service
+281      70  16729    end_service
+
+time between arrivals (this case minus previous case): 190 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 138 seconds
+
+events for caseid 71
+     caseid   time       activity
+279      71  16693        arrival
+280      71  16693     join_queue
+282      71  16729  begin_service
+283      71  16806    end_service
+
+time between arrivals (this case minus previous case): 102 seconds
+waiting time for this case (time between joining queue and beginning service): 36 seconds
+service time for this case (time between beginning and ending service): 77 seconds
+
+events for caseid 72
+     caseid   time       activity
+284      72  16920        arrival
+285      72  16920     join_queue
+286      72  16920  begin_service
+287      72  17023    end_service
+
+time between arrivals (this case minus previous case): 227 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 103 seconds
+
+events for caseid 73
+     caseid   time       activity
+288      73  17437        arrival
+289      73  17437     join_queue
+290      73  17437  begin_service
+291      73  17497    end_service
+
+time between arrivals (this case minus previous case): 517 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 74
+     caseid   time       activity
+292      74  17624        arrival
+293      74  17624     join_queue
+294      74  17624  begin_service
+297      74  17804    end_service
+
+time between arrivals (this case minus previous case): 187 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 180 seconds
+
+events for caseid 75
+     caseid   time       activity
+295      75  17771        arrival
+296      75  17771     join_queue
+298      75  17804  begin_service
+303      75  17881    end_service
+
+time between arrivals (this case minus previous case): 147 seconds
+waiting time for this case (time between joining queue and beginning service): 33 seconds
+service time for this case (time between beginning and ending service): 77 seconds
+
+events for caseid 76
+     caseid   time       activity
+299      76  17820        arrival
+300      76  17820     join_queue
+304      76  17881  begin_service
+305      76  17950    end_service
+
+time between arrivals (this case minus previous case): 49 seconds
+waiting time for this case (time between joining queue and beginning service): 61 seconds
+service time for this case (time between beginning and ending service): 69 seconds
+
+events for caseid 77
+     caseid   time       activity
+301      77  17872        arrival
+302      77  17872     join_queue
+306      77  17950  begin_service
+307      77  18010    end_service
+
+time between arrivals (this case minus previous case): 52 seconds
+waiting time for this case (time between joining queue and beginning service): 78 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 78
+     caseid   time       activity
+308      78  18091        arrival
+309      78  18091     join_queue
+310      78  18091  begin_service
+311      78  18151    end_service
+
+time between arrivals (this case minus previous case): 219 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 79
+     caseid   time       activity
+312      79  18339        arrival
+313      79  18339     join_queue
+314      79  18339  begin_service
+315      79  18519    end_service
+
+time between arrivals (this case minus previous case): 248 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 180 seconds
+
+events for caseid 80
+     caseid   time       activity
+316      80  18576        arrival
+317      80  18576     join_queue
+318      80  18576  begin_service
+319      80  18636    end_service
+
+time between arrivals (this case minus previous case): 237 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 81
+     caseid   time       activity
+320      81  18650        arrival
+321      81  18650     join_queue
+322      81  18650  begin_service
+323      81  18710    end_service
+
+time between arrivals (this case minus previous case): 74 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 82
+     caseid   time       activity
+324      82  19942        arrival
+325      82  19942     join_queue
+326      82  19942  begin_service
+327      82  20014    end_service
+
+time between arrivals (this case minus previous case): 1292 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 72 seconds
+
+events for caseid 83
+     caseid   time       activity
+328      83  20224        arrival
+329      83  20224     join_queue
+330      83  20224  begin_service
+331      83  20284    end_service
+
+time between arrivals (this case minus previous case): 282 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 84
+     caseid   time       activity
+332      84  20667        arrival
+333      84  20667     join_queue
+334      84  20667  begin_service
+335      84  20727    end_service
+
+time between arrivals (this case minus previous case): 443 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 85
+     caseid   time       activity
+336      85  20967        arrival
+337      85  20967     join_queue
+338      85  20967  begin_service
+341      85  21121    end_service
+
+time between arrivals (this case minus previous case): 300 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 154 seconds
+
+events for caseid 86
+     caseid   time       activity
+339      86  21075        arrival
+340      86  21075     join_queue
+342      86  21121  begin_service
+343      86  21181    end_service
+
+time between arrivals (this case minus previous case): 108 seconds
+waiting time for this case (time between joining queue and beginning service): 46 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 87
+     caseid   time       activity
+344      87  21234        arrival
+345      87  21234     join_queue
+346      87  21234  begin_service
+347      87  21294    end_service
+
+time between arrivals (this case minus previous case): 159 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 88
+     caseid   time       activity
+348      88  22040        arrival
+349      88  22040     join_queue
+350      88  22040  begin_service
+351      88  22100    end_service
+
+time between arrivals (this case minus previous case): 806 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 89
+     caseid   time       activity
+352      89  22175        arrival
+353      89  22175     join_queue
+354      89  22175  begin_service
+357      89  22235    end_service
+
+time between arrivals (this case minus previous case): 135 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 90
+     caseid   time       activity
+355      90  22181        arrival
+356      90  22181     join_queue
+358      90  22235  begin_service
+361      90  22295    end_service
+
+time between arrivals (this case minus previous case): 6 seconds
+waiting time for this case (time between joining queue and beginning service): 54 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 91
+     caseid   time       activity
+359      91  22266        arrival
+360      91  22266     join_queue
+362      91  22295  begin_service
+363      91  22355    end_service
+
+time between arrivals (this case minus previous case): 85 seconds
+waiting time for this case (time between joining queue and beginning service): 29 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 92
+     caseid   time       activity
+364      92  22675        arrival
+365      92  22675     join_queue
+366      92  22675  begin_service
+367      92  22735    end_service
+
+time between arrivals (this case minus previous case): 409 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 93
+     caseid   time       activity
+368      93  23329        arrival
+369      93  23329     join_queue
+370      93  23329  begin_service
+371      93  23389    end_service
+
+time between arrivals (this case minus previous case): 654 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 94
+     caseid   time       activity
+372      94  23741        arrival
+373      94  23741     join_queue
+374      94  23741  begin_service
+377      94  23801    end_service
+
+time between arrivals (this case minus previous case): 412 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 95
+     caseid   time       activity
+375      95  23759        arrival
+376      95  23759     join_queue
+378      95  23801  begin_service
+381      95  23981    end_service
+
+time between arrivals (this case minus previous case): 18 seconds
+waiting time for this case (time between joining queue and beginning service): 42 seconds
+service time for this case (time between beginning and ending service): 180 seconds
+
+events for caseid 96
+     caseid   time       activity
+379      96  23941        arrival
+380      96  23941     join_queue
+382      96  23981  begin_service
+383      96  24086    end_service
+
+time between arrivals (this case minus previous case): 182 seconds
+waiting time for this case (time between joining queue and beginning service): 40 seconds
+service time for this case (time between beginning and ending service): 105 seconds
+
+events for caseid 97
+     caseid   time       activity
+384      97  24419        arrival
+385      97  24419     join_queue
+386      97  24419  begin_service
+389      97  24546    end_service
+
+time between arrivals (this case minus previous case): 478 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 127 seconds
+
+events for caseid 98
+     caseid   time       activity
+387      98  24480        arrival
+388      98  24480     join_queue
+390      98  24546  begin_service
+391      98  24606    end_service
+
+time between arrivals (this case minus previous case): 61 seconds
+waiting time for this case (time between joining queue and beginning service): 66 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 99
+     caseid   time       activity
+392      99  25016        arrival
+393      99  25016     join_queue
+394      99  25016  begin_service
+397      99  25144    end_service
+
+time between arrivals (this case minus previous case): 536 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 128 seconds
+
+events for caseid 100
+     caseid   time       activity
+395     100  25019        arrival
+396     100  25019     join_queue
+398     100  25144  begin_service
+399     100  25204    end_service
+
+time between arrivals (this case minus previous case): 3 seconds
+waiting time for this case (time between joining queue and beginning service): 125 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 101
+     caseid   time       activity
+400     101  25604        arrival
+401     101  25604     join_queue
+402     101  25604  begin_service
+403     101  25664    end_service
+
+time between arrivals (this case minus previous case): 585 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 102
+     caseid   time       activity
+404     102  26636        arrival
+405     102  26636     join_queue
+406     102  26636  begin_service
+407     102  26696    end_service
+
+time between arrivals (this case minus previous case): 1032 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 103
+     caseid   time       activity
+408     103  26863        arrival
+409     103  26863     join_queue
+410     103  26863  begin_service
+411     103  26923    end_service
+
+time between arrivals (this case minus previous case): 227 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 104
+     caseid   time       activity
+412     104  27139        arrival
+413     104  27139     join_queue
+414     104  27139  begin_service
+415     104  27237    end_service
+
+time between arrivals (this case minus previous case): 276 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 98 seconds
+
+events for caseid 105
+     caseid   time       activity
+416     105  27284        arrival
+417     105  27284     join_queue
+418     105  27284  begin_service
+421     105  27464    end_service
+
+time between arrivals (this case minus previous case): 145 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 180 seconds
+
+events for caseid 106
+     caseid   time       activity
+419     106  27422        arrival
+420     106  27422     join_queue
+422     106  27464  begin_service
+425     106  27524    end_service
+
+time between arrivals (this case minus previous case): 138 seconds
+waiting time for this case (time between joining queue and beginning service): 42 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 107
+     caseid   time       activity
+423     107  27509        arrival
+424     107  27509     join_queue
+426     107  27524  begin_service
+431     107  27701    end_service
+
+time between arrivals (this case minus previous case): 87 seconds
+waiting time for this case (time between joining queue and beginning service): 15 seconds
+service time for this case (time between beginning and ending service): 177 seconds
+
+events for caseid 108
+     caseid   time       activity
+427     108  27570        arrival
+428     108  27570     join_queue
+432     108  27701  begin_service
+433     108  27789    end_service
+
+time between arrivals (this case minus previous case): 61 seconds
+waiting time for this case (time between joining queue and beginning service): 131 seconds
+service time for this case (time between beginning and ending service): 88 seconds
+
+events for caseid 109
+     caseid   time       activity
+429     109  27662        arrival
+430     109  27662     join_queue
+434     109  27789  begin_service
+435     109  27950    end_service
+
+time between arrivals (this case minus previous case): 92 seconds
+waiting time for this case (time between joining queue and beginning service): 127 seconds
+service time for this case (time between beginning and ending service): 161 seconds
+
+events for caseid 110
+     caseid   time       activity
+436     110  29122        arrival
+437     110  29122     join_queue
+438     110  29122  begin_service
+439     110  29182    end_service
+
+time between arrivals (this case minus previous case): 1460 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 111
+     caseid   time       activity
+440     111  29404        arrival
+441     111  29404     join_queue
+442     111  29404  begin_service
+443     111  29576    end_service
+
+time between arrivals (this case minus previous case): 282 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 172 seconds
+
+events for caseid 112
+     caseid   time       activity
+444     112  29739        arrival
+445     112  29739     join_queue
+446     112  29739  begin_service
+447     112  29919    end_service
+
+time between arrivals (this case minus previous case): 335 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 180 seconds
+
+events for caseid 113
+     caseid   time       activity
+448     113  30205        arrival
+449     113  30205     join_queue
+450     113  30205  begin_service
+453     113  30265    end_service
+
+time between arrivals (this case minus previous case): 466 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 114
+     caseid   time       activity
+451     114  30241        arrival
+452     114  30241     join_queue
+454     114  30265  begin_service
+459     114  30445    end_service
+
+time between arrivals (this case minus previous case): 36 seconds
+waiting time for this case (time between joining queue and beginning service): 24 seconds
+service time for this case (time between beginning and ending service): 180 seconds
+
+events for caseid 115
+     caseid   time       activity
+455     115  30288        arrival
+456     115  30288     join_queue
+460     115  30445  begin_service
+461     115  30505    end_service
+
+time between arrivals (this case minus previous case): 47 seconds
+waiting time for this case (time between joining queue and beginning service): 157 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 116
+     caseid   time       activity
+457     116  30396        arrival
+458     116  30396     join_queue
+462     116  30505  begin_service
+463     116  30610    end_service
+
+time between arrivals (this case minus previous case): 108 seconds
+waiting time for this case (time between joining queue and beginning service): 109 seconds
+service time for this case (time between beginning and ending service): 105 seconds
+
+events for caseid 117
+     caseid   time       activity
+464     117  31603        arrival
+465     117  31603     join_queue
+466     117  31603  begin_service
+467     117  31703    end_service
+
+time between arrivals (this case minus previous case): 1207 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 100 seconds
+
+events for caseid 118
+     caseid   time       activity
+468     118  31750        arrival
+469     118  31750     join_queue
+470     118  31750  begin_service
+471     118  31810    end_service
+
+time between arrivals (this case minus previous case): 147 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 119
+     caseid   time       activity
+472     119  31936        arrival
+473     119  31936     join_queue
+474     119  31936  begin_service
+475     119  32057    end_service
+
+time between arrivals (this case minus previous case): 186 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 121 seconds
+
+events for caseid 120
+     caseid   time       activity
+476     120  32292        arrival
+477     120  32292     join_queue
+478     120  32292  begin_service
+479     120  32352    end_service
+
+time between arrivals (this case minus previous case): 356 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 121
+     caseid   time       activity
+480     121  32397        arrival
+481     121  32397     join_queue
+482     121  32397  begin_service
+483     121  32525    end_service
+
+time between arrivals (this case minus previous case): 105 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 128 seconds
+
+events for caseid 122
+     caseid   time       activity
+484     122  32665        arrival
+485     122  32665     join_queue
+486     122  32665  begin_service
+487     122  32725    end_service
+
+time between arrivals (this case minus previous case): 268 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 123
+     caseid   time       activity
+488     123  32858        arrival
+489     123  32858     join_queue
+490     123  32858  begin_service
+493     123  32937    end_service
+
+time between arrivals (this case minus previous case): 193 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 79 seconds
+
+events for caseid 124
+     caseid   time       activity
+491     124  32927        arrival
+492     124  32927     join_queue
+494     124  32937  begin_service
+495     124  32997    end_service
+
+time between arrivals (this case minus previous case): 69 seconds
+waiting time for this case (time between joining queue and beginning service): 10 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 125
+     caseid   time       activity
+496     125  33208        arrival
+497     125  33208     join_queue
+498     125  33208  begin_service
+499     125  33268    end_service
+
+time between arrivals (this case minus previous case): 281 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 126
+     caseid   time       activity
+500     126  33493        arrival
+501     126  33493     join_queue
+502     126  33493  begin_service
+503     126  33553    end_service
+
+time between arrivals (this case minus previous case): 285 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 127
+     caseid   time       activity
+504     127  33754        arrival
+505     127  33754     join_queue
+506     127  33754  begin_service
+507     127  33814    end_service
+
+time between arrivals (this case minus previous case): 261 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 128
+     caseid   time       activity
+508     128  33947        arrival
+509     128  33947     join_queue
+510     128  33947  begin_service
+515     128  34010    end_service
+
+time between arrivals (this case minus previous case): 193 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 63 seconds
+
+events for caseid 129
+     caseid   time       activity
+511     129  33984        arrival
+512     129  33984     join_queue
+516     129  34010  begin_service
+519     129  34142    end_service
+
+time between arrivals (this case minus previous case): 37 seconds
+waiting time for this case (time between joining queue and beginning service): 26 seconds
+service time for this case (time between beginning and ending service): 132 seconds
+
+events for caseid 130
+     caseid   time       activity
+513     130  33998        arrival
+514     130  33998     join_queue
+520     130  34142  begin_service
+521     130  34212    end_service
+
+time between arrivals (this case minus previous case): 14 seconds
+waiting time for this case (time between joining queue and beginning service): 144 seconds
+service time for this case (time between beginning and ending service): 70 seconds
+
+events for caseid 131
+     caseid   time       activity
+517     131  34110        arrival
+518     131  34110     join_queue
+522     131  34212  begin_service
+523     131  34287    end_service
+
+time between arrivals (this case minus previous case): 112 seconds
+waiting time for this case (time between joining queue and beginning service): 102 seconds
+service time for this case (time between beginning and ending service): 75 seconds
+
+events for caseid 132
+     caseid   time       activity
+524     132  34348        arrival
+525     132  34348     join_queue
+526     132  34348  begin_service
+529     132  34436    end_service
+
+time between arrivals (this case minus previous case): 238 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 88 seconds
+
+events for caseid 133
+     caseid   time       activity
+527     133  34376        arrival
+528     133  34376     join_queue
+530     133  34436  begin_service
+531     133  34496    end_service
+
+time between arrivals (this case minus previous case): 28 seconds
+waiting time for this case (time between joining queue and beginning service): 60 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 134
+     caseid   time       activity
+532     134  34648        arrival
+533     134  34648     join_queue
+534     134  34648  begin_service
+535     134  34759    end_service
+
+time between arrivals (this case minus previous case): 272 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 111 seconds
+
+events for caseid 135
+     caseid   time       activity
+536     135  35183        arrival
+537     135  35183     join_queue
+538     135  35183  begin_service
+541     135  35363    end_service
+
+time between arrivals (this case minus previous case): 535 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 180 seconds
+
+events for caseid 136
+     caseid   time       activity
+539     136  35270        arrival
+540     136  35270     join_queue
+542     136  35363  begin_service
+543     136  35423    end_service
+
+time between arrivals (this case minus previous case): 87 seconds
+waiting time for this case (time between joining queue and beginning service): 93 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 137
+     caseid   time       activity
+544     137  35861        arrival
+545     137  35861     join_queue
+546     137  35861  begin_service
+549     137  35921    end_service
+
+time between arrivals (this case minus previous case): 591 seconds
+waiting time for this case (time between joining queue and beginning service): 0 seconds
+service time for this case (time between beginning and ending service): 60 seconds
+
+events for caseid 138
+     caseid   time       activity
+547     138  35875        arrival
+548     138  35875     join_queue
+550     138  35921  begin_service
+551     138  35981    end_service
+
+time between arrivals (this case minus previous case): 14 seconds
+waiting time for this case (time between joining queue and beginning service): 46 seconds
+service time for this case (time between beginning and ending service): 60 seconds
